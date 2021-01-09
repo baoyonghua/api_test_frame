@@ -1,0 +1,102 @@
+2021-01-09 14:12:52,999 - 20 - baseexcel.py - 36 - root - INFO - 加载excel表单成功
+2021-01-09 14:12:53,013 - 20 - conftest.py - 24 - root - INFO - ******开始执行测试用例******
+2021-01-09 14:12:53,013 - 20 - help.py - 148 - root - INFO - 没有2天前的日志了
+2021-01-09 14:13:04,409 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:13:04,409 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:13:04,678 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:13:04,678 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:13:04,960 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:13:04,960 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:13:05,245 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:13:05,246 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:13:05,525 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:13:05,526 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:13:05,859 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:13:05,859 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:13:06,169 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:13:06,169 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:13:06,444 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:13:06,444 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:13:06,767 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:13:06,767 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:13:07,088 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:13:07,088 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:13:07,450 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:13:07,450 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:13:07,755 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:13:07,755 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:13:08,068 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:13:08,068 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:13:08,464 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:13:08,464 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:13:08,778 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:13:08,778 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:13:09,133 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:13:09,133 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:13:09,463 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:13:09,463 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:13:09,774 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:13:09,774 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:13:10,106 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:13:10,106 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:13:10,414 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:13:10,414 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:13:10,723 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:13:10,724 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:13:11,128 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:13:11,128 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:13:11,514 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:13:11,514 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:13:11,826 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:13:11,826 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:13:12,171 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:13:12,171 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:13:12,504 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:13:12,504 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:13:12,813 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:13:12,813 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:13:13,194 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:13:13,194 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:13:13,504 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:13:13,505 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:13:13,846 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:13:13,846 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:13:14,181 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:13:14,181 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:13:14,546 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:13:14,546 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:13:14,860 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:13:14,861 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:13:15,235 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:13:15,235 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:13:15,577 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:13:15,577 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:13:15,896 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:13:15,896 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:13:16,215 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:13:16,215 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:13:16,543 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:13:16,543 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:13:16,872 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:13:16,872 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:13:17,177 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:13:17,178 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:13:17,574 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:13:17,574 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:13:17,882 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:13:17,882 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:13:18,293 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:13:18,293 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:13:18,637 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:13:18,637 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:13:18,946 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:13:18,946 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:13:19,310 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:13:19,310 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:13:19,610 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:13:19,610 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:13:19,884 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:13:19,884 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:13:20,183 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:13:20,183 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:13:20,184 - 20 - conftest.py - 27 - root - INFO - ******测试用例执行完毕******

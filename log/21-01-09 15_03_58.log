@@ -1,0 +1,100 @@
+2021-01-09 15:03:59,032 - 20 - baseexcel.py - 36 - root - INFO - 加载excel表单成功
+2021-01-09 15:03:59,045 - 20 - conftest.py - 24 - root - INFO - ******开始执行测试用例******
+2021-01-09 15:03:59,046 - 20 - help.py - 156 - root - INFO - 没有2天前的日志了
+2021-01-09 15:03:59,194 - 40 - test_07_audit.py - 44 - root - ERROR - fail
+Traceback (most recent call last):
+  File "E:\github\cookie_api_auto_frame\TestCase\test_loan\test_07_audit.py", line 37, in test_audit
+    assert code == data_info["expected"]
+AssertionError: assert '10001' == 10001
+2021-01-09 15:03:59,344 - 20 - excel_handler.py - 22 - root - INFO - 写入excel audit成功，数据：fail
+2021-01-09 15:03:59,567 - 40 - test_07_audit.py - 44 - root - ERROR - fail
+Traceback (most recent call last):
+  File "E:\github\cookie_api_auto_frame\TestCase\test_loan\test_07_audit.py", line 37, in test_audit
+    assert code == data_info["expected"]
+AssertionError: assert '20207' == 20207
+2021-01-09 15:03:59,731 - 20 - excel_handler.py - 22 - root - INFO - 写入excel audit成功，数据：fail
+2021-01-09 15:03:59,809 - 40 - test_07_audit.py - 44 - root - ERROR - fail
+Traceback (most recent call last):
+  File "E:\github\cookie_api_auto_frame\TestCase\test_loan\test_07_audit.py", line 37, in test_audit
+    assert code == data_info["expected"]
+AssertionError: assert '20203' == 20203
+2021-01-09 15:03:59,966 - 20 - excel_handler.py - 22 - root - INFO - 写入excel audit成功，数据：fail
+2021-01-09 15:04:00,037 - 40 - test_07_audit.py - 44 - root - ERROR - fail
+Traceback (most recent call last):
+  File "E:\github\cookie_api_auto_frame\TestCase\test_loan\test_07_audit.py", line 37, in test_audit
+    assert code == data_info["expected"]
+AssertionError: assert '20212' == 20212
+2021-01-09 15:04:00,194 - 20 - excel_handler.py - 22 - root - INFO - 写入excel audit成功，数据：fail
+2021-01-09 15:04:00,271 - 40 - test_07_audit.py - 44 - root - ERROR - fail
+Traceback (most recent call last):
+  File "E:\github\cookie_api_auto_frame\TestCase\test_loan\test_07_audit.py", line 37, in test_audit
+    assert code == data_info["expected"]
+AssertionError: assert '20206' == 20206
+2021-01-09 15:04:00,435 - 20 - excel_handler.py - 22 - root - INFO - 写入excel audit成功，数据：fail
+2021-01-09 15:04:00,512 - 40 - test_07_audit.py - 44 - root - ERROR - fail
+Traceback (most recent call last):
+  File "E:\github\cookie_api_auto_frame\TestCase\test_loan\test_07_audit.py", line 37, in test_audit
+    assert code == data_info["expected"]
+AssertionError: assert '20212' == 20212
+2021-01-09 15:04:00,698 - 20 - excel_handler.py - 22 - root - INFO - 写入excel audit成功，数据：fail
+2021-01-09 15:04:00,769 - 40 - test_07_audit.py - 44 - root - ERROR - fail
+Traceback (most recent call last):
+  File "E:\github\cookie_api_auto_frame\TestCase\test_loan\test_07_audit.py", line 37, in test_audit
+    assert code == data_info["expected"]
+AssertionError: assert '20204' == 20204
+2021-01-09 15:04:00,944 - 20 - excel_handler.py - 22 - root - INFO - 写入excel audit成功，数据：fail
+2021-01-09 15:04:01,024 - 40 - test_07_audit.py - 44 - root - ERROR - fail
+Traceback (most recent call last):
+  File "E:\github\cookie_api_auto_frame\TestCase\test_loan\test_07_audit.py", line 37, in test_audit
+    assert code == data_info["expected"]
+AssertionError: assert '20210' == 20210
+2021-01-09 15:04:01,187 - 20 - excel_handler.py - 22 - root - INFO - 写入excel audit成功，数据：fail
+2021-01-09 15:04:01,267 - 40 - test_07_audit.py - 44 - root - ERROR - fail
+Traceback (most recent call last):
+  File "E:\github\cookie_api_auto_frame\TestCase\test_loan\test_07_audit.py", line 37, in test_audit
+    assert code == data_info["expected"]
+AssertionError: assert '20211' == 20211
+2021-01-09 15:04:01,422 - 20 - excel_handler.py - 22 - root - INFO - 写入excel audit成功，数据：fail
+2021-01-09 15:04:01,497 - 40 - test_07_audit.py - 44 - root - ERROR - fail
+Traceback (most recent call last):
+  File "E:\github\cookie_api_auto_frame\TestCase\test_loan\test_07_audit.py", line 37, in test_audit
+    assert code == data_info["expected"]
+AssertionError: assert '20203' == 20203
+2021-01-09 15:04:01,659 - 20 - excel_handler.py - 22 - root - INFO - 写入excel audit成功，数据：fail
+2021-01-09 15:04:01,730 - 40 - test_07_audit.py - 44 - root - ERROR - fail
+Traceback (most recent call last):
+  File "E:\github\cookie_api_auto_frame\TestCase\test_loan\test_07_audit.py", line 37, in test_audit
+    assert code == data_info["expected"]
+AssertionError: assert '20212' == 20212
+2021-01-09 15:04:01,885 - 20 - excel_handler.py - 22 - root - INFO - 写入excel audit成功，数据：fail
+2021-01-09 15:04:01,972 - 40 - test_07_audit.py - 44 - root - ERROR - fail
+Traceback (most recent call last):
+  File "E:\github\cookie_api_auto_frame\TestCase\test_loan\test_07_audit.py", line 37, in test_audit
+    assert code == data_info["expected"]
+AssertionError: assert '20205' == 20205
+2021-01-09 15:04:02,129 - 20 - excel_handler.py - 22 - root - INFO - 写入excel audit成功，数据：fail
+2021-01-09 15:04:02,198 - 40 - test_07_audit.py - 44 - root - ERROR - fail
+Traceback (most recent call last):
+  File "E:\github\cookie_api_auto_frame\TestCase\test_loan\test_07_audit.py", line 37, in test_audit
+    assert code == data_info["expected"]
+AssertionError: assert '20205' == 20205
+2021-01-09 15:04:02,352 - 20 - excel_handler.py - 22 - root - INFO - 写入excel audit成功，数据：fail
+2021-01-09 15:04:02,423 - 40 - test_07_audit.py - 44 - root - ERROR - fail
+Traceback (most recent call last):
+  File "E:\github\cookie_api_auto_frame\TestCase\test_loan\test_07_audit.py", line 37, in test_audit
+    assert code == data_info["expected"]
+AssertionError: assert '20205' == 20205
+2021-01-09 15:04:02,616 - 20 - excel_handler.py - 22 - root - INFO - 写入excel audit成功，数据：fail
+2021-01-09 15:04:02,696 - 40 - test_07_audit.py - 44 - root - ERROR - fail
+Traceback (most recent call last):
+  File "E:\github\cookie_api_auto_frame\TestCase\test_loan\test_07_audit.py", line 37, in test_audit
+    assert code == data_info["expected"]
+AssertionError: assert '20212' == 20212
+2021-01-09 15:04:02,853 - 20 - excel_handler.py - 22 - root - INFO - 写入excel audit成功，数据：fail
+2021-01-09 15:04:02,987 - 40 - test_07_audit.py - 44 - root - ERROR - fail
+Traceback (most recent call last):
+  File "E:\github\cookie_api_auto_frame\TestCase\test_loan\test_07_audit.py", line 37, in test_audit
+    assert code == data_info["expected"]
+AssertionError: assert '20203' == 20203
+2021-01-09 15:04:03,144 - 20 - excel_handler.py - 22 - root - INFO - 写入excel audit成功，数据：fail
+2021-01-09 15:04:03,150 - 20 - conftest.py - 27 - root - INFO - ******测试用例执行完毕******

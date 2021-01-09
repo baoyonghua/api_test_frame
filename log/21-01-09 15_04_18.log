@@ -1,0 +1,36 @@
+2021-01-09 15:04:19,622 - 20 - baseexcel.py - 36 - root - INFO - 加载excel表单成功
+2021-01-09 15:04:19,635 - 20 - conftest.py - 24 - root - INFO - ******开始执行测试用例******
+2021-01-09 15:04:19,637 - 20 - help.py - 156 - root - INFO - 没有2天前的日志了
+2021-01-09 15:04:19,928 - 20 - excel_handler.py - 22 - root - INFO - 写入excel audit成功，数据：pass
+2021-01-09 15:04:19,928 - 20 - test_07_audit.py - 42 - root - INFO - pass
+2021-01-09 15:04:20,158 - 20 - excel_handler.py - 22 - root - INFO - 写入excel audit成功，数据：pass
+2021-01-09 15:04:20,158 - 20 - test_07_audit.py - 42 - root - INFO - pass
+2021-01-09 15:04:20,527 - 20 - excel_handler.py - 22 - root - INFO - 写入excel audit成功，数据：pass
+2021-01-09 15:04:20,527 - 20 - test_07_audit.py - 42 - root - INFO - pass
+2021-01-09 15:04:20,752 - 20 - excel_handler.py - 22 - root - INFO - 写入excel audit成功，数据：pass
+2021-01-09 15:04:20,752 - 20 - test_07_audit.py - 42 - root - INFO - pass
+2021-01-09 15:04:21,024 - 20 - excel_handler.py - 22 - root - INFO - 写入excel audit成功，数据：pass
+2021-01-09 15:04:21,024 - 20 - test_07_audit.py - 42 - root - INFO - pass
+2021-01-09 15:04:21,287 - 20 - excel_handler.py - 22 - root - INFO - 写入excel audit成功，数据：pass
+2021-01-09 15:04:21,287 - 20 - test_07_audit.py - 42 - root - INFO - pass
+2021-01-09 15:04:21,513 - 20 - excel_handler.py - 22 - root - INFO - 写入excel audit成功，数据：pass
+2021-01-09 15:04:21,513 - 20 - test_07_audit.py - 42 - root - INFO - pass
+2021-01-09 15:04:21,734 - 20 - excel_handler.py - 22 - root - INFO - 写入excel audit成功，数据：pass
+2021-01-09 15:04:21,735 - 20 - test_07_audit.py - 42 - root - INFO - pass
+2021-01-09 15:04:21,958 - 20 - excel_handler.py - 22 - root - INFO - 写入excel audit成功，数据：pass
+2021-01-09 15:04:21,958 - 20 - test_07_audit.py - 42 - root - INFO - pass
+2021-01-09 15:04:22,185 - 20 - excel_handler.py - 22 - root - INFO - 写入excel audit成功，数据：pass
+2021-01-09 15:04:22,185 - 20 - test_07_audit.py - 42 - root - INFO - pass
+2021-01-09 15:04:22,414 - 20 - excel_handler.py - 22 - root - INFO - 写入excel audit成功，数据：pass
+2021-01-09 15:04:22,414 - 20 - test_07_audit.py - 42 - root - INFO - pass
+2021-01-09 15:04:22,643 - 20 - excel_handler.py - 22 - root - INFO - 写入excel audit成功，数据：pass
+2021-01-09 15:04:22,643 - 20 - test_07_audit.py - 42 - root - INFO - pass
+2021-01-09 15:04:22,870 - 20 - excel_handler.py - 22 - root - INFO - 写入excel audit成功，数据：pass
+2021-01-09 15:04:22,870 - 20 - test_07_audit.py - 42 - root - INFO - pass
+2021-01-09 15:04:23,104 - 20 - excel_handler.py - 22 - root - INFO - 写入excel audit成功，数据：pass
+2021-01-09 15:04:23,105 - 20 - test_07_audit.py - 42 - root - INFO - pass
+2021-01-09 15:04:23,354 - 20 - excel_handler.py - 22 - root - INFO - 写入excel audit成功，数据：pass
+2021-01-09 15:04:23,354 - 20 - test_07_audit.py - 42 - root - INFO - pass
+2021-01-09 15:04:23,639 - 20 - excel_handler.py - 22 - root - INFO - 写入excel audit成功，数据：pass
+2021-01-09 15:04:23,639 - 20 - test_07_audit.py - 42 - root - INFO - pass
+2021-01-09 15:04:23,640 - 20 - conftest.py - 27 - root - INFO - ******测试用例执行完毕******

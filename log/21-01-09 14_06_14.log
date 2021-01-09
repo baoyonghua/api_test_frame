@@ -1,0 +1,117 @@
+2021-01-09 14:06:15,485 - 20 - baseexcel.py - 36 - root - INFO - 加载excel表单成功
+2021-01-09 14:06:15,499 - 20 - conftest.py - 24 - root - INFO - ******开始执行测试用例******
+2021-01-09 14:06:15,499 - 20 - help.py - 148 - root - INFO - 没有2天前的日志了
+2021-01-09 14:06:17,805 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:06:17,806 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:06:18,412 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:06:18,412 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:06:18,692 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:06:18,693 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:06:19,294 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:06:19,294 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:06:19,565 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:06:19,565 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:06:19,921 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:06:19,921 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:06:20,228 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:06:20,228 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:06:20,498 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:06:20,498 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:06:21,074 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:06:21,074 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:06:21,732 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:06:21,732 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:06:21,739 - 40 - help.py - 103 - root - ERROR - 替换excel表中固定的数据失败
+2021-01-09 14:06:22,219 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:06:22,219 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:06:22,537 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:06:22,537 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:06:22,961 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:06:22,961 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:06:23,615 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:06:23,615 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:06:23,976 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:06:23,977 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:06:24,726 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:06:24,726 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:06:25,039 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:06:25,039 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:06:25,350 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：fail
+2021-01-09 14:06:25,351 - 40 - test_06_addloan.py - 55 - root - ERROR - fail
+Traceback (most recent call last):
+  File "E:\github\cookie_api_auto_frame\TestCase\test_loan\test_06_addloan.py", line 44, in test_add_loan
+    assert code == str(data_info["expected"])
+AssertionError: assert '20102' == '20106'
+2021-01-09 14:06:26,003 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:06:26,004 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:06:26,323 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:06:26,323 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:06:26,642 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:06:26,643 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:06:27,018 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:06:27,018 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:06:27,941 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:06:27,941 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:06:28,593 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:06:28,593 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:06:28,943 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:06:28,943 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:06:29,599 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:06:29,599 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:06:30,331 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：fail
+2021-01-09 14:06:30,332 - 40 - test_06_addloan.py - 55 - root - ERROR - fail
+Traceback (most recent call last):
+  File "E:\github\cookie_api_auto_frame\TestCase\test_loan\test_06_addloan.py", line 44, in test_add_loan
+    assert code == str(data_info["expected"])
+AssertionError: assert '10001' == '20102'
+2021-01-09 14:06:31,002 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:06:31,002 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:06:31,316 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:06:31,316 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:06:31,622 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:06:31,622 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:06:31,931 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:06:31,932 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:06:32,227 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:06:32,227 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:06:32,553 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:06:32,553 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:06:32,912 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:06:32,912 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:06:33,218 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:06:33,218 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:06:33,788 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:06:33,788 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:06:34,094 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:06:34,094 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:06:34,753 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:06:34,753 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:06:35,397 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:06:35,397 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:06:36,069 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：fail
+2021-01-09 14:06:36,069 - 40 - test_06_addloan.py - 55 - root - ERROR - fail
+Traceback (most recent call last):
+  File "E:\github\cookie_api_auto_frame\TestCase\test_loan\test_06_addloan.py", line 44, in test_add_loan
+    assert code == str(data_info["expected"])
+AssertionError: assert '10001' == '20102'
+2021-01-09 14:06:36,390 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:06:36,390 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:06:36,702 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:06:36,702 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:06:37,016 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:06:37,016 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:06:37,373 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:06:37,373 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:06:37,739 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：fail
+2021-01-09 14:06:37,739 - 40 - test_06_addloan.py - 55 - root - ERROR - fail
+Traceback (most recent call last):
+  File "E:\github\cookie_api_auto_frame\TestCase\test_loan\test_06_addloan.py", line 44, in test_add_loan
+    assert code == str(data_info["expected"])
+AssertionError: assert '10001' == '20102'
+2021-01-09 14:06:38,061 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:06:38,061 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:06:38,581 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:06:38,581 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:06:39,206 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:06:39,206 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:06:39,207 - 20 - conftest.py - 27 - root - INFO - ******测试用例执行完毕******

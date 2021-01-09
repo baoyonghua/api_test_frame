@@ -1,0 +1,59 @@
+2021-01-09 14:04:57,370 - 20 - baseexcel.py - 36 - root - INFO - 加载excel表单成功
+2021-01-09 14:04:57,387 - 20 - conftest.py - 24 - root - INFO - ******开始执行测试用例******
+2021-01-09 14:04:57,388 - 20 - help.py - 148 - root - INFO - 没有2天前的日志了
+2021-01-09 14:04:57,394 - 40 - help.py - 86 - root - ERROR - 替换excel表中上下关联的memberId数据失败
+2021-01-09 14:04:57,831 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:04:57,832 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:04:58,099 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:04:58,193 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:04:58,462 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:04:58,462 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:04:58,727 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:04:58,727 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:04:58,735 - 40 - help.py - 86 - root - ERROR - 替换excel表中上下关联的memberId数据失败
+2021-01-09 14:04:58,752 - 40 - help.py - 86 - root - ERROR - 替换excel表中上下关联的memberId数据失败
+2021-01-09 14:04:59,051 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:04:59,052 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:04:59,059 - 40 - help.py - 86 - root - ERROR - 替换excel表中上下关联的memberId数据失败
+2021-01-09 14:04:59,076 - 40 - help.py - 86 - root - ERROR - 替换excel表中上下关联的memberId数据失败
+2021-01-09 14:04:59,094 - 40 - help.py - 103 - root - ERROR - 替换excel表中固定的数据失败
+2021-01-09 14:04:59,110 - 40 - help.py - 86 - root - ERROR - 替换excel表中上下关联的memberId数据失败
+2021-01-09 14:04:59,132 - 40 - help.py - 86 - root - ERROR - 替换excel表中上下关联的memberId数据失败
+2021-01-09 14:04:59,149 - 40 - help.py - 86 - root - ERROR - 替换excel表中上下关联的memberId数据失败
+2021-01-09 14:04:59,168 - 40 - help.py - 86 - root - ERROR - 替换excel表中上下关联的memberId数据失败
+2021-01-09 14:04:59,184 - 40 - help.py - 86 - root - ERROR - 替换excel表中上下关联的memberId数据失败
+2021-01-09 14:04:59,204 - 40 - help.py - 86 - root - ERROR - 替换excel表中上下关联的memberId数据失败
+2021-01-09 14:04:59,223 - 40 - help.py - 86 - root - ERROR - 替换excel表中上下关联的memberId数据失败
+2021-01-09 14:04:59,241 - 40 - help.py - 86 - root - ERROR - 替换excel表中上下关联的memberId数据失败
+2021-01-09 14:04:59,260 - 40 - help.py - 86 - root - ERROR - 替换excel表中上下关联的memberId数据失败
+2021-01-09 14:04:59,279 - 40 - help.py - 86 - root - ERROR - 替换excel表中上下关联的memberId数据失败
+2021-01-09 14:04:59,297 - 40 - help.py - 86 - root - ERROR - 替换excel表中上下关联的memberId数据失败
+2021-01-09 14:04:59,315 - 40 - help.py - 86 - root - ERROR - 替换excel表中上下关联的memberId数据失败
+2021-01-09 14:04:59,334 - 40 - help.py - 86 - root - ERROR - 替换excel表中上下关联的memberId数据失败
+2021-01-09 14:04:59,351 - 40 - help.py - 86 - root - ERROR - 替换excel表中上下关联的memberId数据失败
+2021-01-09 14:04:59,370 - 40 - help.py - 86 - root - ERROR - 替换excel表中上下关联的memberId数据失败
+2021-01-09 14:04:59,392 - 40 - help.py - 86 - root - ERROR - 替换excel表中上下关联的memberId数据失败
+2021-01-09 14:04:59,413 - 40 - help.py - 86 - root - ERROR - 替换excel表中上下关联的memberId数据失败
+2021-01-09 14:04:59,432 - 40 - help.py - 86 - root - ERROR - 替换excel表中上下关联的memberId数据失败
+2021-01-09 14:04:59,452 - 40 - help.py - 86 - root - ERROR - 替换excel表中上下关联的memberId数据失败
+2021-01-09 14:04:59,471 - 40 - help.py - 86 - root - ERROR - 替换excel表中上下关联的memberId数据失败
+2021-01-09 14:04:59,490 - 40 - help.py - 86 - root - ERROR - 替换excel表中上下关联的memberId数据失败
+2021-01-09 14:04:59,516 - 40 - help.py - 86 - root - ERROR - 替换excel表中上下关联的memberId数据失败
+2021-01-09 14:04:59,533 - 40 - help.py - 86 - root - ERROR - 替换excel表中上下关联的memberId数据失败
+2021-01-09 14:04:59,550 - 40 - help.py - 86 - root - ERROR - 替换excel表中上下关联的memberId数据失败
+2021-01-09 14:04:59,568 - 40 - help.py - 86 - root - ERROR - 替换excel表中上下关联的memberId数据失败
+2021-01-09 14:04:59,586 - 40 - help.py - 86 - root - ERROR - 替换excel表中上下关联的memberId数据失败
+2021-01-09 14:04:59,604 - 40 - help.py - 86 - root - ERROR - 替换excel表中上下关联的memberId数据失败
+2021-01-09 14:04:59,622 - 40 - help.py - 86 - root - ERROR - 替换excel表中上下关联的memberId数据失败
+2021-01-09 14:04:59,641 - 40 - help.py - 86 - root - ERROR - 替换excel表中上下关联的memberId数据失败
+2021-01-09 14:04:59,658 - 40 - help.py - 86 - root - ERROR - 替换excel表中上下关联的memberId数据失败
+2021-01-09 14:04:59,677 - 40 - help.py - 86 - root - ERROR - 替换excel表中上下关联的memberId数据失败
+2021-01-09 14:04:59,695 - 40 - help.py - 86 - root - ERROR - 替换excel表中上下关联的memberId数据失败
+2021-01-09 14:04:59,712 - 40 - help.py - 86 - root - ERROR - 替换excel表中上下关联的memberId数据失败
+2021-01-09 14:04:59,731 - 40 - help.py - 86 - root - ERROR - 替换excel表中上下关联的memberId数据失败
+2021-01-09 14:04:59,747 - 40 - help.py - 86 - root - ERROR - 替换excel表中上下关联的memberId数据失败
+2021-01-09 14:04:59,766 - 40 - help.py - 86 - root - ERROR - 替换excel表中上下关联的memberId数据失败
+2021-01-09 14:05:00,170 - 20 - excel_handler.py - 22 - root - INFO - 写入excel addloan成功，数据：pass
+2021-01-09 14:05:00,170 - 20 - test_06_addloan.py - 52 - root - INFO - pass
+2021-01-09 14:05:00,177 - 40 - help.py - 86 - root - ERROR - 替换excel表中上下关联的memberId数据失败
+2021-01-09 14:05:00,190 - 20 - conftest.py - 27 - root - INFO - ******测试用例执行完毕******

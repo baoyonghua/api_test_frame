@@ -1,0 +1,372 @@
+2021-01-09 15:02:51,670 - 20 - baseexcel.py - 36 - root - INFO - 加载excel表单成功
+2021-01-09 15:02:51,695 - 20 - conftest.py - 24 - root - INFO - ******开始执行测试用例******
+2021-01-09 15:02:51,696 - 20 - help.py - 156 - root - INFO - 没有2天前的日志了
+2021-01-09 15:02:51,799 - 40 - baserequest.py - 48 - root - ERROR - 调用主函数失败
+Traceback (most recent call last):
+  File "E:\github\cookie_api_auto_frame\common\baserequest.py", line 46, in run_main
+    reason = self.send(method=method, url=url, headers=headers, data=data, json=json, params=params, **kwargs)
+  File "E:\github\cookie_api_auto_frame\common\baserequest.py", line 29, in send
+    res = self.session.request(method=method, url=url, params=params, data=data, headers=headers, json=json,
+  File "E:\Python3.8\lib\site-packages\requests\sessions.py", line 530, in request
+    resp = self.send(prep, **send_kwargs)
+  File "E:\Python3.8\lib\site-packages\requests\sessions.py", line 643, in send
+    r = adapter.send(request, **kwargs)
+  File "E:\Python3.8\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "E:\Python3.8\lib\site-packages\urllib3\connectionpool.py", line 670, in urlopen
+    httplib_response = self._make_request(
+  File "E:\Python3.8\lib\site-packages\urllib3\connectionpool.py", line 392, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "E:\Python3.8\lib\http\client.py", line 1230, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "E:\Python3.8\lib\http\client.py", line 1241, in _send_request
+    self.putrequest(method, url, **skips)
+  File "E:\Python3.8\lib\site-packages\urllib3\connection.py", line 194, in putrequest
+    raise ValueError(
+ValueError: Method cannot contain non-token characters '{"ID":"4","STATUS":"2"}' (found at least '{')
+2021-01-09 15:02:52,244 - 40 - baserequest.py - 48 - root - ERROR - 调用主函数失败
+Traceback (most recent call last):
+  File "E:\github\cookie_api_auto_frame\common\baserequest.py", line 46, in run_main
+    reason = self.send(method=method, url=url, headers=headers, data=data, json=json, params=params, **kwargs)
+  File "E:\github\cookie_api_auto_frame\common\baserequest.py", line 29, in send
+    res = self.session.request(method=method, url=url, params=params, data=data, headers=headers, json=json,
+  File "E:\Python3.8\lib\site-packages\requests\sessions.py", line 530, in request
+    resp = self.send(prep, **send_kwargs)
+  File "E:\Python3.8\lib\site-packages\requests\sessions.py", line 643, in send
+    r = adapter.send(request, **kwargs)
+  File "E:\Python3.8\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "E:\Python3.8\lib\site-packages\urllib3\connectionpool.py", line 670, in urlopen
+    httplib_response = self._make_request(
+  File "E:\Python3.8\lib\site-packages\urllib3\connectionpool.py", line 392, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "E:\Python3.8\lib\http\client.py", line 1230, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "E:\Python3.8\lib\http\client.py", line 1241, in _send_request
+    self.putrequest(method, url, **skips)
+  File "E:\Python3.8\lib\site-packages\urllib3\connection.py", line 194, in putrequest
+    raise ValueError(
+ValueError: Method cannot contain non-token characters '{"ID":"13","STATUS":"5"}' (found at least '{')
+2021-01-09 15:02:52,327 - 40 - baserequest.py - 48 - root - ERROR - 调用主函数失败
+Traceback (most recent call last):
+  File "E:\github\cookie_api_auto_frame\common\baserequest.py", line 46, in run_main
+    reason = self.send(method=method, url=url, headers=headers, data=data, json=json, params=params, **kwargs)
+  File "E:\github\cookie_api_auto_frame\common\baserequest.py", line 29, in send
+    res = self.session.request(method=method, url=url, params=params, data=data, headers=headers, json=json,
+  File "E:\Python3.8\lib\site-packages\requests\sessions.py", line 530, in request
+    resp = self.send(prep, **send_kwargs)
+  File "E:\Python3.8\lib\site-packages\requests\sessions.py", line 643, in send
+    r = adapter.send(request, **kwargs)
+  File "E:\Python3.8\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "E:\Python3.8\lib\site-packages\urllib3\connectionpool.py", line 670, in urlopen
+    httplib_response = self._make_request(
+  File "E:\Python3.8\lib\site-packages\urllib3\connectionpool.py", line 392, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "E:\Python3.8\lib\http\client.py", line 1230, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "E:\Python3.8\lib\http\client.py", line 1241, in _send_request
+    self.putrequest(method, url, **skips)
+  File "E:\Python3.8\lib\site-packages\urllib3\connection.py", line 194, in putrequest
+    raise ValueError(
+ValueError: Method cannot contain non-token characters '{"ID":"","STATUS":"2"}' (found at least '{')
+2021-01-09 15:02:52,435 - 40 - baserequest.py - 48 - root - ERROR - 调用主函数失败
+Traceback (most recent call last):
+  File "E:\github\cookie_api_auto_frame\common\baserequest.py", line 46, in run_main
+    reason = self.send(method=method, url=url, headers=headers, data=data, json=json, params=params, **kwargs)
+  File "E:\github\cookie_api_auto_frame\common\baserequest.py", line 29, in send
+    res = self.session.request(method=method, url=url, params=params, data=data, headers=headers, json=json,
+  File "E:\Python3.8\lib\site-packages\requests\sessions.py", line 530, in request
+    resp = self.send(prep, **send_kwargs)
+  File "E:\Python3.8\lib\site-packages\requests\sessions.py", line 643, in send
+    r = adapter.send(request, **kwargs)
+  File "E:\Python3.8\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "E:\Python3.8\lib\site-packages\urllib3\connectionpool.py", line 670, in urlopen
+    httplib_response = self._make_request(
+  File "E:\Python3.8\lib\site-packages\urllib3\connectionpool.py", line 392, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "E:\Python3.8\lib\http\client.py", line 1230, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "E:\Python3.8\lib\http\client.py", line 1241, in _send_request
+    self.putrequest(method, url, **skips)
+  File "E:\Python3.8\lib\site-packages\urllib3\connection.py", line 194, in putrequest
+    raise ValueError(
+ValueError: Method cannot contain non-token characters '{"ID":" ","STATUS":"2"}' (found at least '{')
+2021-01-09 15:02:52,516 - 40 - baserequest.py - 48 - root - ERROR - 调用主函数失败
+Traceback (most recent call last):
+  File "E:\github\cookie_api_auto_frame\common\baserequest.py", line 46, in run_main
+    reason = self.send(method=method, url=url, headers=headers, data=data, json=json, params=params, **kwargs)
+  File "E:\github\cookie_api_auto_frame\common\baserequest.py", line 29, in send
+    res = self.session.request(method=method, url=url, params=params, data=data, headers=headers, json=json,
+  File "E:\Python3.8\lib\site-packages\requests\sessions.py", line 530, in request
+    resp = self.send(prep, **send_kwargs)
+  File "E:\Python3.8\lib\site-packages\requests\sessions.py", line 643, in send
+    r = adapter.send(request, **kwargs)
+  File "E:\Python3.8\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "E:\Python3.8\lib\site-packages\urllib3\connectionpool.py", line 670, in urlopen
+    httplib_response = self._make_request(
+  File "E:\Python3.8\lib\site-packages\urllib3\connectionpool.py", line 392, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "E:\Python3.8\lib\http\client.py", line 1230, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "E:\Python3.8\lib\http\client.py", line 1241, in _send_request
+    self.putrequest(method, url, **skips)
+  File "E:\Python3.8\lib\site-packages\urllib3\connection.py", line 194, in putrequest
+    raise ValueError(
+ValueError: Method cannot contain non-token characters '{"ID":"99999","STATUS":"2"}' (found at least '{')
+2021-01-09 15:02:52,599 - 40 - baserequest.py - 48 - root - ERROR - 调用主函数失败
+Traceback (most recent call last):
+  File "E:\github\cookie_api_auto_frame\common\baserequest.py", line 46, in run_main
+    reason = self.send(method=method, url=url, headers=headers, data=data, json=json, params=params, **kwargs)
+  File "E:\github\cookie_api_auto_frame\common\baserequest.py", line 29, in send
+    res = self.session.request(method=method, url=url, params=params, data=data, headers=headers, json=json,
+  File "E:\Python3.8\lib\site-packages\requests\sessions.py", line 530, in request
+    resp = self.send(prep, **send_kwargs)
+  File "E:\Python3.8\lib\site-packages\requests\sessions.py", line 643, in send
+    r = adapter.send(request, **kwargs)
+  File "E:\Python3.8\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "E:\Python3.8\lib\site-packages\urllib3\connectionpool.py", line 670, in urlopen
+    httplib_response = self._make_request(
+  File "E:\Python3.8\lib\site-packages\urllib3\connectionpool.py", line 392, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "E:\Python3.8\lib\http\client.py", line 1230, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "E:\Python3.8\lib\http\client.py", line 1241, in _send_request
+    self.putrequest(method, url, **skips)
+  File "E:\Python3.8\lib\site-packages\urllib3\connection.py", line 194, in putrequest
+    raise ValueError(
+ValueError: Method cannot contain non-token characters '{"ID":"SA","STATUS":"2"}' (found at least '{')
+2021-01-09 15:02:52,678 - 40 - baserequest.py - 48 - root - ERROR - 调用主函数失败
+Traceback (most recent call last):
+  File "E:\github\cookie_api_auto_frame\common\baserequest.py", line 46, in run_main
+    reason = self.send(method=method, url=url, headers=headers, data=data, json=json, params=params, **kwargs)
+  File "E:\github\cookie_api_auto_frame\common\baserequest.py", line 29, in send
+    res = self.session.request(method=method, url=url, params=params, data=data, headers=headers, json=json,
+  File "E:\Python3.8\lib\site-packages\requests\sessions.py", line 530, in request
+    resp = self.send(prep, **send_kwargs)
+  File "E:\Python3.8\lib\site-packages\requests\sessions.py", line 643, in send
+    r = adapter.send(request, **kwargs)
+  File "E:\Python3.8\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "E:\Python3.8\lib\site-packages\urllib3\connectionpool.py", line 670, in urlopen
+    httplib_response = self._make_request(
+  File "E:\Python3.8\lib\site-packages\urllib3\connectionpool.py", line 392, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "E:\Python3.8\lib\http\client.py", line 1230, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "E:\Python3.8\lib\http\client.py", line 1241, in _send_request
+    self.putrequest(method, url, **skips)
+  File "E:\Python3.8\lib\site-packages\urllib3\connection.py", line 194, in putrequest
+    raise ValueError(
+ValueError: Method cannot contain non-token characters '{"ID":"0","STATUS":"2"}' (found at least '{')
+2021-01-09 15:02:52,779 - 40 - baserequest.py - 48 - root - ERROR - 调用主函数失败
+Traceback (most recent call last):
+  File "E:\github\cookie_api_auto_frame\common\baserequest.py", line 46, in run_main
+    reason = self.send(method=method, url=url, headers=headers, data=data, json=json, params=params, **kwargs)
+  File "E:\github\cookie_api_auto_frame\common\baserequest.py", line 29, in send
+    res = self.session.request(method=method, url=url, params=params, data=data, headers=headers, json=json,
+  File "E:\Python3.8\lib\site-packages\requests\sessions.py", line 530, in request
+    resp = self.send(prep, **send_kwargs)
+  File "E:\Python3.8\lib\site-packages\requests\sessions.py", line 643, in send
+    r = adapter.send(request, **kwargs)
+  File "E:\Python3.8\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "E:\Python3.8\lib\site-packages\urllib3\connectionpool.py", line 670, in urlopen
+    httplib_response = self._make_request(
+  File "E:\Python3.8\lib\site-packages\urllib3\connectionpool.py", line 392, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "E:\Python3.8\lib\http\client.py", line 1230, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "E:\Python3.8\lib\http\client.py", line 1241, in _send_request
+    self.putrequest(method, url, **skips)
+  File "E:\Python3.8\lib\site-packages\urllib3\connection.py", line 194, in putrequest
+    raise ValueError(
+ValueError: Method cannot contain non-token characters '{"ID":"13","STATUS":"7"}' (found at least '{')
+2021-01-09 15:02:52,861 - 40 - baserequest.py - 48 - root - ERROR - 调用主函数失败
+Traceback (most recent call last):
+  File "E:\github\cookie_api_auto_frame\common\baserequest.py", line 46, in run_main
+    reason = self.send(method=method, url=url, headers=headers, data=data, json=json, params=params, **kwargs)
+  File "E:\github\cookie_api_auto_frame\common\baserequest.py", line 29, in send
+    res = self.session.request(method=method, url=url, params=params, data=data, headers=headers, json=json,
+  File "E:\Python3.8\lib\site-packages\requests\sessions.py", line 530, in request
+    resp = self.send(prep, **send_kwargs)
+  File "E:\Python3.8\lib\site-packages\requests\sessions.py", line 643, in send
+    r = adapter.send(request, **kwargs)
+  File "E:\Python3.8\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "E:\Python3.8\lib\site-packages\urllib3\connectionpool.py", line 670, in urlopen
+    httplib_response = self._make_request(
+  File "E:\Python3.8\lib\site-packages\urllib3\connectionpool.py", line 392, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "E:\Python3.8\lib\http\client.py", line 1230, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "E:\Python3.8\lib\http\client.py", line 1241, in _send_request
+    self.putrequest(method, url, **skips)
+  File "E:\Python3.8\lib\site-packages\urllib3\connection.py", line 194, in putrequest
+    raise ValueError(
+ValueError: Method cannot contain non-token characters '{"ID":"13","STATUS":"11"}' (found at least '{')
+2021-01-09 15:02:52,945 - 40 - baserequest.py - 48 - root - ERROR - 调用主函数失败
+Traceback (most recent call last):
+  File "E:\github\cookie_api_auto_frame\common\baserequest.py", line 46, in run_main
+    reason = self.send(method=method, url=url, headers=headers, data=data, json=json, params=params, **kwargs)
+  File "E:\github\cookie_api_auto_frame\common\baserequest.py", line 29, in send
+    res = self.session.request(method=method, url=url, params=params, data=data, headers=headers, json=json,
+  File "E:\Python3.8\lib\site-packages\requests\sessions.py", line 530, in request
+    resp = self.send(prep, **send_kwargs)
+  File "E:\Python3.8\lib\site-packages\requests\sessions.py", line 643, in send
+    r = adapter.send(request, **kwargs)
+  File "E:\Python3.8\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "E:\Python3.8\lib\site-packages\urllib3\connectionpool.py", line 670, in urlopen
+    httplib_response = self._make_request(
+  File "E:\Python3.8\lib\site-packages\urllib3\connectionpool.py", line 392, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "E:\Python3.8\lib\http\client.py", line 1230, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "E:\Python3.8\lib\http\client.py", line 1241, in _send_request
+    self.putrequest(method, url, **skips)
+  File "E:\Python3.8\lib\site-packages\urllib3\connection.py", line 194, in putrequest
+    raise ValueError(
+ValueError: Method cannot contain non-token characters '{"ID":"13","STATUS":""}' (found at least '{')
+2021-01-09 15:02:53,027 - 40 - baserequest.py - 48 - root - ERROR - 调用主函数失败
+Traceback (most recent call last):
+  File "E:\github\cookie_api_auto_frame\common\baserequest.py", line 46, in run_main
+    reason = self.send(method=method, url=url, headers=headers, data=data, json=json, params=params, **kwargs)
+  File "E:\github\cookie_api_auto_frame\common\baserequest.py", line 29, in send
+    res = self.session.request(method=method, url=url, params=params, data=data, headers=headers, json=json,
+  File "E:\Python3.8\lib\site-packages\requests\sessions.py", line 530, in request
+    resp = self.send(prep, **send_kwargs)
+  File "E:\Python3.8\lib\site-packages\requests\sessions.py", line 643, in send
+    r = adapter.send(request, **kwargs)
+  File "E:\Python3.8\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "E:\Python3.8\lib\site-packages\urllib3\connectionpool.py", line 670, in urlopen
+    httplib_response = self._make_request(
+  File "E:\Python3.8\lib\site-packages\urllib3\connectionpool.py", line 392, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "E:\Python3.8\lib\http\client.py", line 1230, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "E:\Python3.8\lib\http\client.py", line 1241, in _send_request
+    self.putrequest(method, url, **skips)
+  File "E:\Python3.8\lib\site-packages\urllib3\connection.py", line 194, in putrequest
+    raise ValueError(
+ValueError: Method cannot contain non-token characters '{"ID":"13","STATUS":" "}' (found at least '{')
+2021-01-09 15:02:53,130 - 40 - baserequest.py - 48 - root - ERROR - 调用主函数失败
+Traceback (most recent call last):
+  File "E:\github\cookie_api_auto_frame\common\baserequest.py", line 46, in run_main
+    reason = self.send(method=method, url=url, headers=headers, data=data, json=json, params=params, **kwargs)
+  File "E:\github\cookie_api_auto_frame\common\baserequest.py", line 29, in send
+    res = self.session.request(method=method, url=url, params=params, data=data, headers=headers, json=json,
+  File "E:\Python3.8\lib\site-packages\requests\sessions.py", line 530, in request
+    resp = self.send(prep, **send_kwargs)
+  File "E:\Python3.8\lib\site-packages\requests\sessions.py", line 643, in send
+    r = adapter.send(request, **kwargs)
+  File "E:\Python3.8\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "E:\Python3.8\lib\site-packages\urllib3\connectionpool.py", line 670, in urlopen
+    httplib_response = self._make_request(
+  File "E:\Python3.8\lib\site-packages\urllib3\connectionpool.py", line 392, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "E:\Python3.8\lib\http\client.py", line 1230, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "E:\Python3.8\lib\http\client.py", line 1241, in _send_request
+    self.putrequest(method, url, **skips)
+  File "E:\Python3.8\lib\site-packages\urllib3\connection.py", line 194, in putrequest
+    raise ValueError(
+ValueError: Method cannot contain non-token characters '{"ID":"13","STATUS":"0"}' (found at least '{')
+2021-01-09 15:02:53,212 - 40 - baserequest.py - 48 - root - ERROR - 调用主函数失败
+Traceback (most recent call last):
+  File "E:\github\cookie_api_auto_frame\common\baserequest.py", line 46, in run_main
+    reason = self.send(method=method, url=url, headers=headers, data=data, json=json, params=params, **kwargs)
+  File "E:\github\cookie_api_auto_frame\common\baserequest.py", line 29, in send
+    res = self.session.request(method=method, url=url, params=params, data=data, headers=headers, json=json,
+  File "E:\Python3.8\lib\site-packages\requests\sessions.py", line 530, in request
+    resp = self.send(prep, **send_kwargs)
+  File "E:\Python3.8\lib\site-packages\requests\sessions.py", line 643, in send
+    r = adapter.send(request, **kwargs)
+  File "E:\Python3.8\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "E:\Python3.8\lib\site-packages\urllib3\connectionpool.py", line 670, in urlopen
+    httplib_response = self._make_request(
+  File "E:\Python3.8\lib\site-packages\urllib3\connectionpool.py", line 392, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "E:\Python3.8\lib\http\client.py", line 1230, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "E:\Python3.8\lib\http\client.py", line 1241, in _send_request
+    self.putrequest(method, url, **skips)
+  File "E:\Python3.8\lib\site-packages\urllib3\connection.py", line 194, in putrequest
+    raise ValueError(
+ValueError: Method cannot contain non-token characters '{"ID":"13","STATUS":"12"}' (found at least '{')
+2021-01-09 15:02:53,293 - 40 - baserequest.py - 48 - root - ERROR - 调用主函数失败
+Traceback (most recent call last):
+  File "E:\github\cookie_api_auto_frame\common\baserequest.py", line 46, in run_main
+    reason = self.send(method=method, url=url, headers=headers, data=data, json=json, params=params, **kwargs)
+  File "E:\github\cookie_api_auto_frame\common\baserequest.py", line 29, in send
+    res = self.session.request(method=method, url=url, params=params, data=data, headers=headers, json=json,
+  File "E:\Python3.8\lib\site-packages\requests\sessions.py", line 530, in request
+    resp = self.send(prep, **send_kwargs)
+  File "E:\Python3.8\lib\site-packages\requests\sessions.py", line 643, in send
+    r = adapter.send(request, **kwargs)
+  File "E:\Python3.8\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "E:\Python3.8\lib\site-packages\urllib3\connectionpool.py", line 670, in urlopen
+    httplib_response = self._make_request(
+  File "E:\Python3.8\lib\site-packages\urllib3\connectionpool.py", line 392, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "E:\Python3.8\lib\http\client.py", line 1230, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "E:\Python3.8\lib\http\client.py", line 1241, in _send_request
+    self.putrequest(method, url, **skips)
+  File "E:\Python3.8\lib\site-packages\urllib3\connection.py", line 194, in putrequest
+    raise ValueError(
+ValueError: Method cannot contain non-token characters '{"ID":"13","STATUS":"-1"}' (found at least '{')
+2021-01-09 15:02:53,380 - 40 - baserequest.py - 48 - root - ERROR - 调用主函数失败
+Traceback (most recent call last):
+  File "E:\github\cookie_api_auto_frame\common\baserequest.py", line 46, in run_main
+    reason = self.send(method=method, url=url, headers=headers, data=data, json=json, params=params, **kwargs)
+  File "E:\github\cookie_api_auto_frame\common\baserequest.py", line 29, in send
+    res = self.session.request(method=method, url=url, params=params, data=data, headers=headers, json=json,
+  File "E:\Python3.8\lib\site-packages\requests\sessions.py", line 530, in request
+    resp = self.send(prep, **send_kwargs)
+  File "E:\Python3.8\lib\site-packages\requests\sessions.py", line 643, in send
+    r = adapter.send(request, **kwargs)
+  File "E:\Python3.8\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "E:\Python3.8\lib\site-packages\urllib3\connectionpool.py", line 670, in urlopen
+    httplib_response = self._make_request(
+  File "E:\Python3.8\lib\site-packages\urllib3\connectionpool.py", line 392, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "E:\Python3.8\lib\http\client.py", line 1230, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "E:\Python3.8\lib\http\client.py", line 1241, in _send_request
+    self.putrequest(method, url, **skips)
+  File "E:\Python3.8\lib\site-packages\urllib3\connection.py", line 194, in putrequest
+    raise ValueError(
+ValueError: Method cannot contain non-token characters '{"ID":"13","STATUS":"SAD"}' (found at least '{')
+2021-01-09 15:02:53,596 - 40 - baserequest.py - 48 - root - ERROR - 调用主函数失败
+Traceback (most recent call last):
+  File "E:\github\cookie_api_auto_frame\common\baserequest.py", line 46, in run_main
+    reason = self.send(method=method, url=url, headers=headers, data=data, json=json, params=params, **kwargs)
+  File "E:\github\cookie_api_auto_frame\common\baserequest.py", line 29, in send
+    res = self.session.request(method=method, url=url, params=params, data=data, headers=headers, json=json,
+  File "E:\Python3.8\lib\site-packages\requests\sessions.py", line 530, in request
+    resp = self.send(prep, **send_kwargs)
+  File "E:\Python3.8\lib\site-packages\requests\sessions.py", line 643, in send
+    r = adapter.send(request, **kwargs)
+  File "E:\Python3.8\lib\site-packages\requests\adapters.py", line 439, in send
+    resp = conn.urlopen(
+  File "E:\Python3.8\lib\site-packages\urllib3\connectionpool.py", line 670, in urlopen
+    httplib_response = self._make_request(
+  File "E:\Python3.8\lib\site-packages\urllib3\connectionpool.py", line 392, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "E:\Python3.8\lib\http\client.py", line 1230, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "E:\Python3.8\lib\http\client.py", line 1241, in _send_request
+    self.putrequest(method, url, **skips)
+  File "E:\Python3.8\lib\site-packages\urllib3\connection.py", line 194, in putrequest
+    raise ValueError(
+ValueError: Method cannot contain non-token characters '{"ID":"4","STATUS":"2"}' (found at least '{')
+2021-01-09 15:02:53,672 - 20 - conftest.py - 27 - root - INFO - ******测试用例执行完毕******

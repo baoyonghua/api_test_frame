@@ -1,0 +1,42 @@
+db :
+  host : 'test.lemonban.com'
+  port : 3306
+  user : 'future'
+  password : '123456'
+  database : 'futureloan'
+  charser : 'utf8'
+
+GD_key :
+  key : '6fa0bb3ee8cc85e295f544b39b6c892b'
+
+GD_url :
+  input_prompt : 'https://restapi.amap.com/v3/assistant/inputtips'
+
+
+user_info :
+  mobilephone : 15957250692
+  pwd : 12345678
+  password : 12345678
+  # 投资/取现金额
+  amount : 100
+  loanId : 2
+
+invest_info :
+  # 投资金额
+  amount : 100
+
+audit :
+  status : 2
+
+add_loan :
+  title : hh
+  amount : 10000
+  loanRate : 25
+  loanTerm : 6
+  loanDateType : 4
+  repaymemtWay : 10
+  biddingDays : 10
+
+
+host :
+ url : 'http://test.lemonban.com/futureloan/mvc/api'
